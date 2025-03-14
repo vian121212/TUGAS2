@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="email">Email</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="masuk">Masuk</string>
+    <string name="lupa_pass">lupa password</string>
+    <string name="pass">Password</string>
+</resources>
